@@ -23,6 +23,3 @@ MODIFIED BY INSANE/RABENAUGE^TSCC
 used in Chipo Django 2 for STE
 https://www.pouet.net/prod.php?which=94151
 
-used in Chipo Django 1 for STE and Falcon030
-https://www.pouet.net/prod.php?which=90085
-
