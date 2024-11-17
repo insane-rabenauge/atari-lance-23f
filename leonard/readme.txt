@@ -5,7 +5,7 @@ AMIGA 2.3F REPLAY BY 8BITBUBSY
 VOLUME TABLES FROM PTPLAYER 6.0 BY FRANK WILLE
 MODIFIED BY INSANE/RABENAUGE^TSCC
 
-- merged with current pt2.3f replay
+- merged with current pt2.3f replay (current back in 2021)
 - allows loop end detection
 - allows visualizer support
 - allows master volume

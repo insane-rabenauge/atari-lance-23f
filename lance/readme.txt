@@ -13,7 +13,7 @@ MODIFIED BY INSANE/RABENAUGE^TSCC
 - removed hard bpm (seemed to use trash+timer)
 - simple soft bpm emulator added
 - LMC modified (bugged sometimes on my STE,volume got suddenly louder)
-- merged with current pt2.3f replay
+- merged with current pt2.3f replay (current back in 2021)
 - removed paula init from mt_init, DIY!
 - allows loop end detection
 - allows visualizer support
